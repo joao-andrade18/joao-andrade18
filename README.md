@@ -3,7 +3,7 @@
 
 - 😀 Meu nome é João Vitor Andrade
 - 💡 Atualmente sou aluno da UFPR cursando Análise e Desenvolvimento de Sistemas
-- 📚 Atualmente estudando Python
+- 📚 Atualmente estudando React
 - 📱 Contato: vitorandrade@ufpr.br
 
 <div align="left">
